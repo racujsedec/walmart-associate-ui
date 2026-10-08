@@ -1,1 +1,0 @@
-Helm/GKE deployment is a production design boundary. Do not deploy the demo auth token or local SQLite to production. Implement verified OIDC, managed database, secret injection, policies, probes, resource limits and network restrictions first.
